@@ -1,0 +1,24 @@
+table, th, td {
+    border: 2px solid purple;
+    border-collapse: collapse;
+    padding:5px; }
+    th{text-align: left;}
+
+  body {
+  	background-image:url('back3.jpg')
+}
+
+h1 {font-family: Bookman; text-align: center;color: purple;font-size: 300%;}
+
+table {width:100%;font-family: "Times New Roman";}
+
+#img1 { width :500px; height:320px; float:right;}
+
+table{ font-family: Times new roman;}
+
+#p1{ font-family: Bookman; text-align: left; color: purple; font-size: 150%;}
+img.f {width:300px; height:400px;}
+
+h4{text-align: center;font-size: 150%;color: purple;}
+#pe{color: purple;font-size: 150%;text-align: center;}
+#b{color:purple;}
